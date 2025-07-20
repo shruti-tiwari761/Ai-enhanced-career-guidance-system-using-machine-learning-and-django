@@ -1,0 +1,334 @@
+,Grades in Mathematics,Grades in Science,Grades in English,Grades in Social studies,Grades in Computer Science/Information Technology,Interest in Mathematics,Interest in Science,Interest in English,Interest in Social Studies,Interest In Computer Science/Information Technology,Preferred Career Options,Preferred Stream for 11th Grade,Self-Assessment in Learning Style,Interest in Learning New Concepts/Technology,Recommended Stream
+0,B,B,A,C,C,Low Interest,High Interest,No Interest,Moderate Interest,High Interest,No Specific Preference,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+1,A,B,B,B,A,High Interest,Moderate Interest,Moderate Interest,Low Interest,Moderate Interest,Business,Undecided,Visual,Moderate Interest,Science (Mathematics)
+2,B,B,B,A,B,Moderate Interest,High Interest,Moderate Interest,High Interest,Low Interest,Engineering,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+3,B,B,A,A,A,Moderate Interest,No Interest,High Interest,Moderate Interest,High Interest,Computer Science,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+4,B,B,A,C,A,Moderate Interest,Moderate Interest,High Interest,No Interest,No Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+5,B,B,C,C,C,High Interest,Moderate Interest,No Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Reading/Writing,Moderate Interest,Science (Mathematics)
+6,A,B,C,C,B,No Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Engineering,Science(Mathematics),Reading/Writing,Low Interest,Undecided
+7,A,B,A,A,B,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,Engineering,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+8,C,C,B,E,A,Moderate Interest,High Interest,High Interest,No Interest,Moderate Interest,Law,Undecided,Visual,Moderate Interest,Arts
+9,A,A,A,B,A,High Interest,High Interest,High Interest,Moderate Interest,Moderate Interest,Law,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+10,B,A,A,C,A,Low Interest,Low Interest,Low Interest,Low Interest,Low Interest,No Specific Preference,Undecided,Reading/Writing,No Interest,Undecided
+11,D,D,A,C,D,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,Moderate Interest,Arts
+12,D,C,B,D,D,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,No Interest,Business,Undecided,Kinesthetic,No Interest,Commerce
+13,A,A,B,B,B,High Interest,Moderate Interest,Low Interest,No Interest,Low Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+14,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,Moderate Interest,Medicine,Science(Biology),Reading/Writing,High Interest,Science (Mathematics)
+15,A,B,A,A,A,High Interest,Moderate Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+16,B,B,A,B,C,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Low Interest,Business,Commerce,Visual,Moderate Interest,Science (Mathematics)
+17,B,A,A,B,B,Moderate Interest,High Interest,High Interest,Low Interest,No Interest,Medicine,Science(Biology),Reading/Writing,Moderate Interest,Science (Mathematics)
+18,A,A,A,A,A,Low Interest,High Interest,High Interest,High Interest,High Interest,No Specific Preference,Science(Biology),Reading/Writing,High Interest,Arts
+19,C,C,B,B,C,Low Interest,Low Interest,Low Interest,High Interest,Moderate Interest,Law,Arts,Kinesthetic,Moderate Interest,Undecided
+20,D,A,C,E,E,Moderate Interest,High Interest,No Interest,Moderate Interest,Moderate Interest,Business,Commerce,Visual,No Interest,Science (Biology)
+21,C,B,B,B,C,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,Low Interest,Psychology,Science(Biology),Reading/Writing,Moderate Interest,Science (Biology)
+22,A,A,A,A,A,No Interest,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Arts
+23,E,E,C,D,B,Moderate Interest,Moderate Interest,High Interest,High Interest,No Interest,Architecture,Undecided,Visual,No Interest,Undecided
+24,A,A,A,A,A,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Law,Commerce,Reading/Writing,Moderate Interest,Arts
+25,A,A,A,A,B,High Interest,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,Computer Science,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+26,B,B,A,A,A,Moderate Interest,Moderate Interest,High Interest,High Interest,High Interest,Computer Science,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+27,B,A,A,B,B,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Visual,High Interest,Science (Mathematics)
+28,C,C,C,B,B,Low Interest,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Business,Science(Mathematics),Reading/Writing,Moderate Interest,Commerce
+29,C,B,B,C,B,Low Interest,Moderate Interest,Low Interest,Moderate Interest,Moderate Interest,Medicine,Undecided,Reading/Writing,Moderate Interest,Science (Biology)
+30,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,High Interest,Engineering,Science(Biology),Reading/Writing,Moderate Interest,Science (Mathematics)
+31,A,B,A,B,A,Moderate Interest,High Interest,High Interest,No Interest,High Interest,Business,Undecided,Reading/Writing,High Interest,Science (Mathematics)
+32,B,B,B,B,B,High Interest,High Interest,Low Interest,Low Interest,Low Interest,Engineering,Science(Mathematics),Visual,Low Interest,Science (Mathematics)
+33,B,B,A,B,B,Low Interest,High Interest,Moderate Interest,Moderate Interest,High Interest,Architecture,Arts,Visual,High Interest,Arts
+34,B,B,A,A,A,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Business,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+35,A,A,A,B,A,High Interest,Moderate Interest,High Interest,Low Interest,High Interest,Engineering,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+36,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,High Interest,Medicine,Science(Biology),Visual,Moderate Interest,Science (Mathematics)
+37,A,A,A,A,B,High Interest,Moderate Interest,High Interest,Moderate Interest,No Interest,Business,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+38,A,A,A,B,A,High Interest,High Interest,High Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+39,A,C,C,C,C,Low Interest,High Interest,High Interest,High Interest,High Interest,Psychology,Science(Biology),Visual,Low Interest,Undecided
+40,A,A,A,A,A,High Interest,No Interest,Low Interest,No Interest,No Interest,No Specific Preference,Commerce,Visual,No Interest,Science (Mathematics)
+41,A,A,A,A,B,High Interest,Moderate Interest,High Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Reading/Writing,Moderate Interest,Science (Mathematics)
+42,A,B,A,B,A,High Interest,Moderate Interest,High Interest,Moderate Interest,High Interest,Business,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+43,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,No Specific Preference,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+44,B,A,A,D,D,High Interest,High Interest,Moderate Interest,No Interest,Low Interest,Engineering,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+45,A,C,C,C,A,Moderate Interest,Moderate Interest,No Interest,Low Interest,High Interest,Business,Commerce,Reading/Writing,Low Interest,Commerce
+46,A,A,A,B,A,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,High Interest,Engineering,Science(Mathematics),Visual,Moderate Interest,Science (Mathematics)
+47,A,A,A,A,A,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,No Interest,Business,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+48,A,A,A,B,B,High Interest,Moderate Interest,High Interest,Low Interest,Low Interest,Engineering,Science(Mathematics),Visual,Moderate Interest,Science (Mathematics)
+49,B,B,B,B,B,High Interest,Moderate Interest,Low Interest,High Interest,Moderate Interest,Business,Science(Biology),Reading/Writing,No Interest,Science (Mathematics)
+50,B,A,A,A,A,Low Interest,High Interest,High Interest,Low Interest,Moderate Interest,Psychology,Science(Biology),Reading/Writing,High Interest,Arts
+51,B,A,C,B,A,Low Interest,Low Interest,Low Interest,Low Interest,Low Interest,Law,Arts,Kinesthetic,No Interest,Undecided
+52,A,A,A,A,B,High Interest,High Interest,High Interest,Low Interest,High Interest,Medicine,Science(Biology),Reading/Writing,High Interest,Science (Mathematics)
+53,B,B,C,B,D,Moderate Interest,Moderate Interest,Low Interest,Moderate Interest,Low Interest,No Specific Preference,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+54,B,B,A,B,B,Low Interest,Low Interest,High Interest,High Interest,Low Interest,Medicine,Science(Biology),Reading/Writing,High Interest,Arts
+55,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Arts/Graphics Designing,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+56,A,A,A,A,A,Moderate Interest,Low Interest,No Interest,Low Interest,Moderate Interest,Medicine,Science(Mathematics),Visual,No Interest,Science (Mathematics)
+57,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Arts/Graphics Designing,Arts,Reading/Writing,High Interest,Science (Mathematics)
+58,B,B,A,A,A,No Interest,Low Interest,High Interest,High Interest,High Interest,Computer Science,Commerce,Reading/Writing,High Interest,Arts
+59,B,B,B,C,B,High Interest,Low Interest,Moderate Interest,No Interest,Moderate Interest,No Specific Preference,Science(Mathematics),Visual,Low Interest,Science (Mathematics)
+60,D,D,C,D,E,Low Interest,Low Interest,High Interest,Low Interest,Low Interest,Business,Arts,Visual,Low Interest,Commerce
+61,A,A,B,B,B,High Interest,Moderate Interest,No Interest,No Interest,No Interest,No Specific Preference,Undecided,Reading/Writing,Low Interest,Science (Mathematics)
+62,A,A,A,A,A,Moderate Interest,High Interest,Low Interest,Moderate Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+63,A,B,B,B,B,High Interest,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,No Specific Preference,Undecided,Reading/Writing,Low Interest,Science (Mathematics)
+64,B,A,A,B,A,Moderate Interest,High Interest,High Interest,Low Interest,Moderate Interest,Business,Commerce,Visual,Low Interest,Science (Mathematics)
+65,C,A,A,C,A,Low Interest,High Interest,High Interest,Low Interest,Moderate Interest,Arts/Graphics Designing,Arts,Visual,Moderate Interest,Science (Biology)
+66,B,C,A,A,C,Moderate Interest,High Interest,High Interest,Low Interest,Moderate Interest,Psychology,Science(Biology),Reading/Writing,Moderate Interest,Arts
+67,A,A,A,B,A,High Interest,High Interest,High Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+68,A,C,A,C,D,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,No Interest,Architecture,Commerce,Visual,Moderate Interest,Arts
+69,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+70,B,C,C,D,B,No Interest,Moderate Interest,Low Interest,High Interest,No Interest,Medicine,Science(Biology),Visual,Moderate Interest,Undecided
+71,B,A,A,A,B,Low Interest,High Interest,High Interest,High Interest,Low Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Arts
+72,B,A,A,C,A,Moderate Interest,High Interest,High Interest,Moderate Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+73,B,C,E,B,C,Low Interest,Moderate Interest,Moderate Interest,High Interest,No Interest,Psychology,Science(Biology),Auditory,High Interest,Undecided
+74,A,B,A,B,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Psychology,Science(Biology),Reading/Writing,Moderate Interest,Science (Mathematics)
+75,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Kinesthetic,High Interest,Science (Mathematics)
+76,B,A,D,C,C,Low Interest,Low Interest,Moderate Interest,No Interest,High Interest,Computer Science,Science(Biology),Auditory,Moderate Interest,Undecided
+77,B,A,A,A,B,Low Interest,Moderate Interest,High Interest,High Interest,Low Interest,Law,Arts,Auditory,Moderate Interest,Arts
+78,B,C,C,A,A,No Interest,Moderate Interest,High Interest,High Interest,High Interest,Computer Science,Undecided,Kinesthetic,Moderate Interest,Undecided
+79,A,A,A,C,A,High Interest,High Interest,High Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+80,B,D,E,E,B,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,No Specific Preference,Undecided,Reading/Writing,Moderate Interest,Undecided
+81,D,A,B,E,B,Low Interest,No Interest,High Interest,High Interest,High Interest,Architecture,Arts,Kinesthetic,Moderate Interest,Arts
+82,B,B,A,A,B,Moderate Interest,Moderate Interest,High Interest,High Interest,No Interest,Arts/Graphics Designing,Arts,Reading/Writing,Low Interest,Science (Mathematics)
+83,C,B,C,B,B,Low Interest,Low Interest,Moderate Interest,Low Interest,Low Interest,Arts/Graphics Designing,Arts,Auditory,Moderate Interest,Undecided
+84,C,B,A,C,C,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Low Interest,Business,Commerce,Kinesthetic,Low Interest,Science (Biology)
+85,D,A,A,A,B,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,No Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Biology)
+86,C,B,A,A,B,No Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Architecture,Undecided,Kinesthetic,Low Interest,Science (Biology)
+87,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+88,A,C,A,B,B,Moderate Interest,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Reading/Writing,Moderate Interest,Commerce
+89,D,C,D,C,B,Moderate Interest,Low Interest,Moderate Interest,Low Interest,Moderate Interest,Arts/Graphics Designing,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+90,A,B,A,A,B,High Interest,High Interest,High Interest,No Interest,No Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+91,B,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,No Specific Preference,Commerce,Reading/Writing,High Interest,Science (Mathematics)
+92,C,B,A,A,B,Low Interest,High Interest,Moderate Interest,Low Interest,No Interest,No Specific Preference,Undecided,Reading/Writing,No Interest,Science (Biology)
+93,A,B,B,A,A,High Interest,High Interest,Moderate Interest,Low Interest,Low Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+94,A,B,A,B,A,High Interest,High Interest,High Interest,Low Interest,High Interest,Engineering,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+95,C,B,A,C,B,Moderate Interest,Low Interest,Low Interest,Low Interest,No Interest,Arts/Graphics Designing,Arts,Auditory,Low Interest,Undecided
+96,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Computer Science,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+97,D,B,C,B,C,No Interest,Low Interest,Moderate Interest,Low Interest,No Interest,Psychology,Science(Biology),Auditory,Moderate Interest,Undecided
+98,D,B,C,A,A,No Interest,Low Interest,High Interest,Moderate Interest,Low Interest,Arts/Graphics Designing,Arts,Reading/Writing,Moderate Interest,Undecided
+99,B,B,A,A,B,High Interest,Moderate Interest,High Interest,Low Interest,High Interest,Law,Arts,Kinesthetic,Moderate Interest,Science (Mathematics)
+100,C,C,B,B,B,Low Interest,No Interest,Moderate Interest,Moderate Interest,Low Interest,Business,Commerce,Kinesthetic,Moderate Interest,Commerce
+101,D,D,B,E,D,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,High Interest,Arts
+102,B,B,B,B,A,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Low Interest,Environmental Science,Science(Biology),Reading/Writing,High Interest,Science (Mathematics)
+103,E,D,D,B,B,Moderate Interest,Low Interest,No Interest,Moderate Interest,Moderate Interest,Environmental Science,Arts,Reading/Writing,Moderate Interest,Undecided
+104,A,A,A,B,C,Moderate Interest,High Interest,High Interest,No Interest,Low Interest,Engineering,Science(Mathematics),Kinesthetic,Moderate Interest,Science (Mathematics)
+105,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,No Interest,Low Interest,Computer Science,Science(Mathematics),Kinesthetic,High Interest,Science (Mathematics)
+106,C,C,B,A,B,Moderate Interest,Moderate Interest,High Interest,High Interest,Low Interest,Law,Arts,Kinesthetic,High Interest,Arts
+107,D,C,B,B,B,No Interest,No Interest,Low Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Arts,Kinesthetic,Low Interest,Undecided
+108,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Architecture,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+109,B,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Computer Science,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+110,B,B,A,A,B,High Interest,No Interest,Moderate Interest,Moderate Interest,Moderate Interest,Law,Undecided,Auditory,High Interest,Science (Mathematics)
+111,C,C,A,B,B,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Visual,Moderate Interest,Arts
+112,A,B,B,B,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Reading/Writing,Low Interest,Science (Mathematics)
+113,E,C,A,A,C,No Interest,No Interest,High Interest,High Interest,Moderate Interest,Business,Commerce,Reading/Writing,Moderate Interest,Commerce
+114,A,A,A,A,A,High Interest,Moderate Interest,High Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+115,A,B,A,B,A,Moderate Interest,Moderate Interest,High Interest,High Interest,High Interest,Computer Science,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+116,B,A,A,B,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+117,B,A,B,B,A,Low Interest,Moderate Interest,Low Interest,No Interest,Low Interest,Business,Commerce,Auditory,Moderate Interest,Commerce
+118,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Low Interest,Business,Commerce,Auditory,Low Interest,Science (Mathematics)
+119,B,A,A,B,A,High Interest,High Interest,High Interest,Moderate Interest,High Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+120,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,High Interest,High Interest,Law,Arts,Reading/Writing,Moderate Interest,Science (Mathematics)
+121,B,A,B,B,A,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Visual,Moderate Interest,Science (Mathematics)
+122,B,B,A,A,A,Moderate Interest,Moderate Interest,High Interest,High Interest,High Interest,Law,Arts,Reading/Writing,High Interest,Science (Mathematics)
+124,A,B,A,A,A,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Reading/Writing,Moderate Interest,Science (Mathematics)
+125,B,A,A,C,C,Moderate Interest,High Interest,High Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Visual,Moderate Interest,Science (Mathematics)
+126,B,B,A,B,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+127,A,B,A,B,A,High Interest,Moderate Interest,High Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+128,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Medicine,Science(Biology),Visual,High Interest,Science (Mathematics)
+129,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Kinesthetic,Moderate Interest,Science (Mathematics)
+130,B,C,C,B,D,Low Interest,No Interest,High Interest,Low Interest,Low Interest,Architecture,Science(Biology),Auditory,No Interest,Undecided
+131,A,B,D,B,D,No Interest,Low Interest,Moderate Interest,Low Interest,High Interest,Computer Science,Science(Mathematics),Kinesthetic,High Interest,Undecided
+132,A,A,B,A,B,High Interest,High Interest,High Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+133,B,C,D,D,D,No Interest,Moderate Interest,Moderate Interest,No Interest,Moderate Interest,Arts/Graphics Designing,Arts,Reading/Writing,Moderate Interest,Undecided
+134,B,B,D,A,B,No Interest,High Interest,No Interest,Moderate Interest,Moderate Interest,Computer Science,Science(Mathematics),Auditory,Low Interest,Undecided
+135,C,B,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Law,Arts,Reading/Writing,Moderate Interest,Science (Biology)
+136,A,C,C,B,A,Low Interest,Low Interest,Low Interest,Moderate Interest,Low Interest,Architecture,Science(Biology),Kinesthetic,Moderate Interest,Undecided
+137,A,C,B,D,D,No Interest,Low Interest,Moderate Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,Low Interest,Arts
+138,A,D,D,C,C,No Interest,High Interest,High Interest,Low Interest,Moderate Interest,Arts/Graphics Designing,Arts,Kinesthetic,Moderate Interest,Undecided
+139,B,D,D,B,B,No Interest,Low Interest,Low Interest,Moderate Interest,Low Interest,Architecture,Science(Mathematics),Reading/Writing,High Interest,Undecided
+140,B,C,C,D,B,Low Interest,No Interest,Low Interest,Low Interest,Low Interest,Business,Commerce,Auditory,Moderate Interest,Commerce
+141,A,B,B,A,A,Low Interest,Moderate Interest,Moderate Interest,High Interest,No Interest,Architecture,Science(Mathematics),Reading/Writing,High Interest,Arts
+142,B,C,D,A,A,No Interest,Low Interest,High Interest,Moderate Interest,Moderate Interest,Engineering,Science(Mathematics),Auditory,Low Interest,Undecided
+143,B,C,D,D,C,No Interest,High Interest,Low Interest,Moderate Interest,Moderate Interest,Law,Commerce,Reading/Writing,Moderate Interest,Undecided
+144,A,B,C,D,C,High Interest,Low Interest,Low Interest,Low Interest,Moderate Interest,Business,Commerce,Reading/Writing,Low Interest,Science (Mathematics)
+145,B,D,C,A,A,No Interest,Low Interest,Low Interest,Moderate Interest,No Interest,Business,Commerce,Reading/Writing,Moderate Interest,Commerce
+146,A,B,D,D,D,No Interest,Moderate Interest,Low Interest,No Interest,Moderate Interest,Architecture,Science(Mathematics),Auditory,Low Interest,Undecided
+147,C,C,C,A,B,No Interest,Moderate Interest,Moderate Interest,No Interest,Low Interest,Environmental Science,Science(Mathematics),Auditory,High Interest,Undecided
+148,A,A,C,C,B,Low Interest,High Interest,Moderate Interest,Low Interest,Moderate Interest,Environmental Science,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+149,C,B,C,D,D,Low Interest,Low Interest,Moderate Interest,Low Interest,Low Interest,Architecture,Undecided,Reading/Writing,High Interest,Undecided
+150,B,A,A,D,C,No Interest,Low Interest,Moderate Interest,Moderate Interest,Low Interest,Psychology,Science(Biology),Reading/Writing,Moderate Interest,Arts
+151,A,C,C,C,C,Low Interest,Low Interest,No Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,Moderate Interest,Undecided
+152,A,C,E,C,B,Low Interest,Low Interest,Moderate Interest,Moderate Interest,Low Interest,No Specific Preference,Science(Biology),Kinesthetic,Moderate Interest,Undecided
+153,A,C,E,C,B,No Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Law,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+154,B,A,D,C,B,Low Interest,Low Interest,High Interest,Moderate Interest,No Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Undecided
+155,A,B,B,B,B,Low Interest,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Psychology,Science(Biology),Kinesthetic,Moderate Interest,Arts
+156,C,B,A,E,C,No Interest,Moderate Interest,Moderate Interest,High Interest,No Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Biology)
+157,B,D,C,C,E,Moderate Interest,Moderate Interest,High Interest,Low Interest,No Interest,Architecture,Science(Mathematics),Visual,Low Interest,Undecided
+158,B,C,D,D,E,No Interest,Low Interest,Low Interest,High Interest,High Interest,Environmental Science,Science(Mathematics),Auditory,Low Interest,Undecided
+159,D,D,C,B,B,Low Interest,Moderate Interest,Low Interest,High Interest,Low Interest,Law,Arts,Reading/Writing,High Interest,Undecided
+160,B,A,E,D,C,No Interest,Low Interest,Moderate Interest,Moderate Interest,High Interest,Architecture,Science(Mathematics),Reading/Writing,Low Interest,Undecided
+161,C,D,C,E,B,Low Interest,Low Interest,High Interest,Low Interest,No Interest,Architecture,Science(Biology),Kinesthetic,Moderate Interest,Undecided
+162,A,C,E,B,B,No Interest,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Science(Mathematics),Reading/Writing,Low Interest,Undecided
+163,A,C,D,C,C,Low Interest,Moderate Interest,High Interest,High Interest,Low Interest,Architecture,Science(Mathematics),Reading/Writing,Low Interest,Undecided
+164,B,C,D,A,A,Low Interest,Low Interest,Low Interest,Moderate Interest,Moderate Interest,Architecture,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+165,B,C,D,D,C,No Interest,Low Interest,Low Interest,High Interest,No Interest,Business,Commerce,Auditory,High Interest,Commerce
+166,B,C,D,B,B,No Interest,Low Interest,Low Interest,Moderate Interest,No Interest,Psychology,Science(Biology),Auditory,Low Interest,Undecided
+167,B,C,E,D,B,No Interest,Low Interest,Low Interest,No Interest,Low Interest,Arts/Graphics Designing,Commerce,Reading/Writing,Moderate Interest,Undecided
+168,A,C,C,C,C,No Interest,No Interest,Low Interest,Moderate Interest,Moderate Interest,Business,Science(Mathematics),Kinesthetic,Moderate Interest,Commerce
+169,A,B,B,B,B,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,No Interest,Architecture,Science(Mathematics),Reading/Writing,No Interest,Arts
+170,A,C,E,B,B,Low Interest,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,Low Interest,Commerce
+171,A,D,D,E,A,No Interest,Low Interest,Low Interest,Moderate Interest,No Interest,Business,Commerce,Auditory,High Interest,Commerce
+172,A,C,C,D,A,Low Interest,Moderate Interest,Moderate Interest,High Interest,Low Interest,Law,Science(Mathematics),Auditory,Moderate Interest,Undecided
+173,B,B,D,C,B,Low Interest,Moderate Interest,Low Interest,Moderate Interest,High Interest,Psychology,Science(Biology),Reading/Writing,Low Interest,Undecided
+174,C,C,B,D,B,Low Interest,Low Interest,No Interest,Moderate Interest,Moderate Interest,Architecture,Science(Mathematics),Kinesthetic,Low Interest,Undecided
+175,A,C,C,B,B,No Interest,Low Interest,Low Interest,Moderate Interest,Low Interest,Psychology,Science(Biology),Kinesthetic,High Interest,Undecided
+176,C,C,A,A,E,Moderate Interest,No Interest,Moderate Interest,Low Interest,Moderate Interest,No Specific Preference,Undecided,Kinesthetic,Moderate Interest,Arts
+177,A,C,D,D,B,Low Interest,No Interest,Moderate Interest,High Interest,Low Interest,Psychology,Science(Biology),Reading/Writing,Moderate Interest,Undecided
+178,B,D,D,D,D,Low Interest,Moderate Interest,Low Interest,Low Interest,Moderate Interest,Business,Commerce,Reading/Writing,No Interest,Commerce
+179,A,C,D,D,C,Moderate Interest,No Interest,Moderate Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Reading/Writing,Low Interest,Undecided
+180,B,C,D,C,A,Low Interest,High Interest,Low Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+181,C,B,C,C,D,Low Interest,High Interest,Low Interest,Moderate Interest,Moderate Interest,Computer Science,Science(Mathematics),Auditory,High Interest,Science (Biology)
+182,C,D,D,E,D,Low Interest,High Interest,Low Interest,High Interest,Low Interest,Medicine,Science(Biology),Kinesthetic,Moderate Interest,Undecided
+183,C,C,C,A,D,Moderate Interest,High Interest,High Interest,Moderate Interest,Low Interest,Law,Undecided,Visual,No Interest,Undecided
+184,C,E,D,D,D,Low Interest,Moderate Interest,Low Interest,Moderate Interest,No Interest,Psychology,Undecided,Reading/Writing,Low Interest,Undecided
+185,C,D,E,C,C,Low Interest,High Interest,Moderate Interest,Moderate Interest,Low Interest,Psychology,Science(Biology),Reading/Writing,Moderate Interest,Undecided
+186,C,C,D,B,C,Low Interest,Low Interest,Moderate Interest,No Interest,Moderate Interest,No Specific Preference,Science(Mathematics),Reading/Writing,Low Interest,Undecided
+187,D,C,D,D,B,No Interest,Moderate Interest,High Interest,Moderate Interest,Low Interest,Environmental Science,Science(Mathematics),Reading/Writing,No Interest,Undecided
+188,B,B,D,C,C,Moderate Interest,No Interest,Moderate Interest,No Interest,Low Interest,Arts/Graphics Designing,Arts,Auditory,Low Interest,Science (Mathematics)
+189,C,C,A,D,B,Moderate Interest,No Interest,No Interest,No Interest,No Interest,Engineering,Science(Mathematics),Reading/Writing,No Interest,Undecided
+190,B,B,C,D,C,Low Interest,Moderate Interest,Low Interest,High Interest,High Interest,Psychology,Science(Biology),Reading/Writing,Low Interest,Undecided
+191,B,B,D,C,A,Low Interest,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Architecture,Arts,Kinesthetic,Moderate Interest,Undecided
+192,B,A,B,B,A,High Interest,High Interest,Moderate Interest,Moderate Interest,High Interest,Business,Commerce,Reading/Writing,High Interest,Science (Mathematics)
+193,A,C,B,C,B,Low Interest,Low Interest,Moderate Interest,Low Interest,Low Interest,Law,Arts,Reading/Writing,Moderate Interest,Arts
+194,B,D,D,C,B,Moderate Interest,Low Interest,High Interest,Moderate Interest,High Interest,Law,Arts,Reading/Writing,Moderate Interest,Undecided
+195,C,E,D,B,D,Low Interest,High Interest,No Interest,Low Interest,Low Interest,Arts/Graphics Designing,Arts,Reading/Writing,Moderate Interest,Undecided
+196,C,C,D,B,C,Low Interest,Low Interest,High Interest,Moderate Interest,Moderate Interest,Environmental Science,Science(Mathematics),Auditory,High Interest,Undecided
+197,D,A,A,B,D,High Interest,High Interest,No Interest,No Interest,No Interest,Medicine,Science(Biology),Visual,Low Interest,Science (Biology)
+198,B,B,B,A,C,Low Interest,Moderate Interest,Low Interest,No Interest,Moderate Interest,No Specific Preference,Undecided,Auditory,Moderate Interest,Undecided
+199,C,D,A,D,E,Low Interest,No Interest,Low Interest,Moderate Interest,Moderate Interest,No Specific Preference,Commerce,Kinesthetic,Low Interest,Undecided
+200,B,A,A,B,A,Moderate Interest,Moderate Interest,Low Interest,Moderate Interest,Low Interest,Engineering,Science(Mathematics),Auditory,Low Interest,Science (Mathematics)
+201,A,A,B,B,A,High Interest,High Interest,Moderate Interest,No Interest,High Interest,Computer Science,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+203,B,A,A,B,A,Moderate Interest,High Interest,High Interest,Moderate Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+204,A,A,A,B,A,High Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Auditory,High Interest,Science (Mathematics)
+205,B,B,A,A,B,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Law,Arts,Auditory,High Interest,Science (Mathematics)
+206,A,B,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Architecture,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+207,B,B,A,A,B,Moderate Interest,Low Interest,High Interest,High Interest,No Interest,Law,Arts,Kinesthetic,Moderate Interest,Science (Mathematics)
+208,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+211,B,B,A,A,B,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,High Interest,Science (Mathematics)
+212,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Architecture,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+213,B,B,A,A,B,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Law,Arts,Reading/Writing,High Interest,Science (Mathematics)
+214,A,B,A,B,A,High Interest,Moderate Interest,High Interest,Moderate Interest,High Interest,Computer Science,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+215,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Auditory,High Interest,Science (Mathematics)
+216,A,A,A,A,A,Moderate Interest,High Interest,High Interest,Moderate Interest,Moderate Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+217,B,A,A,B,A,High Interest,High Interest,High Interest,Moderate Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+218,A,D,C,A,B,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Low Interest,No Specific Preference,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+219,A,A,B,B,A,High Interest,High Interest,Moderate Interest,Moderate Interest,High Interest,Engineering,Science(Mathematics),Reading/Writing,No Interest,Science (Mathematics)
+220,A,B,A,A,A,High Interest,Moderate Interest,High Interest,High Interest,High Interest,Law,Arts,Auditory,Moderate Interest,Science (Mathematics)
+221,B,A,A,B,A,Moderate Interest,High Interest,High Interest,Low Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+223,B,B,A,A,B,Low Interest,Moderate Interest,High Interest,High Interest,Low Interest,Arts/Graphics Designing,Arts,Auditory,Moderate Interest,Arts
+225,B,A,A,A,B,Moderate Interest,High Interest,High Interest,High Interest,Low Interest,Medicine,Science(Biology),Visual,Moderate Interest,Science (Mathematics)
+226,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+227,A,B,A,B,B,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+228,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Law,Arts,Auditory,High Interest,Science (Mathematics)
+229,B,A,A,A,B,Moderate Interest,High Interest,High Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Auditory,Low Interest,Science (Mathematics)
+230,B,B,A,A,B,Low Interest,Moderate Interest,High Interest,High Interest,Low Interest,Law,Arts,Auditory,High Interest,Arts
+231,A,A,A,B,A,Moderate Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Reading/Writing,High Interest,Science (Mathematics)
+232,B,B,A,A,B,Moderate Interest,High Interest,Moderate Interest,High Interest,Low Interest,Arts/Graphics Designing,Arts,Auditory,High Interest,Science (Mathematics)
+233,A,A,B,B,A,High Interest,High Interest,Moderate Interest,Low Interest,High Interest,Architecture,Science(Mathematics),Kinesthetic,High Interest,Science (Mathematics)
+234,A,A,A,B,A,High Interest,High Interest,High Interest,No Interest,High Interest,Engineering,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+235,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Kinesthetic,High Interest,Science (Mathematics)
+236,A,A,B,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Computer Science,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+237,B,B,A,A,B,Low Interest,Moderate Interest,High Interest,Moderate Interest,Low Interest,Law,Arts,Reading/Writing,High Interest,Arts
+238,B,C,B,C,B,Low Interest,Moderate Interest,Moderate Interest,No Interest,Low Interest,Arts/Graphics Designing,Arts,Reading/Writing,Moderate Interest,Arts
+239,A,A,A,B,A,High Interest,High Interest,High Interest,No Interest,High Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+240,B,A,A,B,B,Low Interest,High Interest,Moderate Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Auditory,High Interest,Arts
+241,C,B,D,D,B,Low Interest,Low Interest,High Interest,High Interest,Moderate Interest,No Specific Preference,Commerce,Auditory,Moderate Interest,Undecided
+242,C,C,C,C,A,High Interest,High Interest,Moderate Interest,No Interest,Moderate Interest,No Specific Preference,Science(Mathematics),Kinesthetic,High Interest,Undecided
+243,C,B,A,A,C,Low Interest,Moderate Interest,High Interest,High Interest,No Interest,Law,Arts,Auditory,High Interest,Science (Biology)
+244,B,C,D,C,D,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Environmental Science,Undecided,Reading/Writing,Low Interest,Undecided
+245,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Business,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+246,C,A,C,C,B,No Interest,No Interest,Moderate Interest,No Interest,Moderate Interest,No Specific Preference,Science(Mathematics),Reading/Writing,Moderate Interest,Undecided
+248,C,B,A,C,B,Moderate Interest,High Interest,High Interest,No Interest,Moderate Interest,Engineering,Science(Mathematics),Kinesthetic,Moderate Interest,Science (Biology)
+249,A,A,A,C,A,High Interest,High Interest,High Interest,No Interest,Moderate Interest,Medicine,Science(Biology),Visual,Moderate Interest,Science (Mathematics)
+250,C,A,C,D,D,Low Interest,High Interest,Low Interest,Low Interest,High Interest,Architecture,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Biology)
+251,A,C,B,A,C,No Interest,Low Interest,High Interest,High Interest,No Interest,Psychology,Arts,Reading/Writing,No Interest,Arts
+252,C,B,A,A,C,Low Interest,Low Interest,High Interest,High Interest,No Interest,Law,Arts,Auditory,Moderate Interest,Arts
+253,C,A,B,B,B,Low Interest,Moderate Interest,High Interest,Low Interest,No Interest,Psychology,Arts,Reading/Writing,Moderate Interest,Science (Biology)
+254,B,C,D,B,C,Low Interest,Low Interest,Low Interest,Low Interest,Moderate Interest,Arts/Graphics Designing,Arts,Reading/Writing,No Interest,Undecided
+255,B,B,A,B,B,Low Interest,No Interest,High Interest,Moderate Interest,No Interest,Business,Commerce,Auditory,Low Interest,Commerce
+256,C,C,A,D,D,Moderate Interest,Moderate Interest,Low Interest,Moderate Interest,Moderate Interest,Architecture,Science(Mathematics),Visual,Low Interest,Undecided
+257,A,A,A,A,A,Moderate Interest,High Interest,Moderate Interest,High Interest,Moderate Interest,Architecture,Science(Mathematics),Reading/Writing,High Interest,Science (Mathematics)
+258,C,D,C,E,D,High Interest,Moderate Interest,High Interest,No Interest,High Interest,Engineering,Science(Mathematics),Visual,Moderate Interest,Undecided
+259,A,A,B,B,A,High Interest,High Interest,High Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+260,D,D,B,B,B,Low Interest,No Interest,Moderate Interest,High Interest,Low Interest,Law,Arts,Auditory,Moderate Interest,Arts
+261,B,C,A,B,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Reading/Writing,Moderate Interest,Commerce
+262,C,B,B,C,B,Low Interest,Moderate Interest,No Interest,Low Interest,Moderate Interest,No Specific Preference,Science(Biology),Auditory,Low Interest,Science (Biology)
+263,B,C,B,C,C,Low Interest,Moderate Interest,Moderate Interest,Low Interest,High Interest,Computer Science,Science(Mathematics),Reading/Writing,Low Interest,Arts
+264,B,A,A,B,A,Moderate Interest,Moderate Interest,Moderate Interest,No Interest,Low Interest,Environmental Science,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+265,A,A,B,D,B,High Interest,Moderate Interest,Moderate Interest,Low Interest,High Interest,Computer Science,Science(Mathematics),Auditory,Low Interest,Science (Mathematics)
+266,B,A,A,B,B,Moderate Interest,Moderate Interest,Low Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+267,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Reading/Writing,Moderate Interest,Science (Mathematics)
+268,C,B,C,C,B,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,No Interest,No Specific Preference,Undecided,Reading/Writing,Low Interest,Science (Biology)
+269,B,B,A,A,B,Low Interest,Moderate Interest,High Interest,High Interest,No Interest,Law,Arts,Reading/Writing,High Interest,Arts
+270,C,B,C,D,B,Moderate Interest,Moderate Interest,High Interest,Low Interest,Moderate Interest,Computer Science,Science(Mathematics),Auditory,Moderate Interest,Science (Biology)
+271,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+272,C,B,C,D,C,No Interest,Low Interest,Moderate Interest,Moderate Interest,Low Interest,Business,Arts,Reading/Writing,Low Interest,Commerce
+273,B,B,A,A,B,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Arts,Reading/Writing,High Interest,Science (Mathematics)
+274,C,B,A,C,C,Moderate Interest,Low Interest,High Interest,Low Interest,No Interest,No Specific Preference,Undecided,Reading/Writing,Low Interest,Arts
+275,C,B,B,B,D,Low Interest,Low Interest,Moderate Interest,High Interest,Low Interest,Business,Commerce,Kinesthetic,Low Interest,Commerce
+276,B,C,B,D,B,Moderate Interest,High Interest,Moderate Interest,No Interest,Low Interest,Environmental Science,Science(Biology),Visual,Low Interest,Arts
+277,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Computer Science,Science(Mathematics),Kinesthetic,Moderate Interest,Science (Mathematics)
+278,B,B,A,A,B,Moderate Interest,Moderate Interest,High Interest,High Interest,Low Interest,Arts/Graphics Designing,Arts,Auditory,High Interest,Science (Mathematics)
+279,B,B,D,D,B,Moderate Interest,High Interest,Moderate Interest,Low Interest,Moderate Interest,No Specific Preference,Undecided,Auditory,Moderate Interest,Science (Mathematics)
+280,B,B,B,E,B,Moderate Interest,High Interest,High Interest,No Interest,High Interest,Engineering,Science(Mathematics),Visual,Moderate Interest,Science (Mathematics)
+281,A,A,A,A,A,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Business,Commerce,Auditory,High Interest,Science (Mathematics)
+282,D,A,B,D,D,Low Interest,High Interest,Moderate Interest,No Interest,No Interest,Medicine,Science(Biology),Visual,No Interest,Science (Biology)
+283,A,A,A,A,A,Moderate Interest,High Interest,Moderate Interest,High Interest,Moderate Interest,Architecture,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+284,C,B,D,D,C,Low Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Biology)
+285,D,B,C,C,C,Low Interest,Low Interest,Moderate Interest,Low Interest,Low Interest,No Specific Preference,Science(Mathematics),Reading/Writing,Low Interest,Undecided
+286,C,C,A,D,D,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Moderate Interest,Psychology,Science(Biology),Kinesthetic,Low Interest,Arts
+287,A,A,B,A,B,Moderate Interest,Low Interest,High Interest,High Interest,No Interest,Law,Arts,Auditory,High Interest,Science (Mathematics)
+288,C,A,A,D,D,Low Interest,High Interest,Moderate Interest,Low Interest,No Interest,Psychology,Science(Biology),Auditory,No Interest,Science (Biology)
+289,C,A,A,B,C,High Interest,Moderate Interest,Moderate Interest,No Interest,Low Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Biology)
+290,B,B,B,B,B,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Architecture,Science(Mathematics),Auditory,Low Interest,Science (Mathematics)
+291,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Environmental Science,Science(Biology),Auditory,High Interest,Science (Mathematics)
+292,A,A,B,A,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Law,Arts,Reading/Writing,Moderate Interest,Science (Mathematics)
+293,B,B,B,D,D,Low Interest,High Interest,Moderate Interest,Low Interest,Low Interest,Medicine,Science(Biology),Reading/Writing,Low Interest,Arts
+295,C,C,C,C,C,Moderate Interest,Low Interest,Low Interest,Moderate Interest,Low Interest,No Specific Preference,Undecided,Visual,Low Interest,Undecided
+296,B,A,B,A,B,Low Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,Moderate Interest,Arts
+297,B,B,C,C,D,Low Interest,Moderate Interest,Moderate Interest,No Interest,No Interest,Arts/Graphics Designing,Arts,Reading/Writing,Low Interest,Undecided
+298,A,A,A,B,A,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+299,B,B,B,D,D,Low Interest,High Interest,Moderate Interest,No Interest,No Interest,Medicine,Science(Biology),Visual,Low Interest,Arts
+300,B,A,A,B,B,High Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Environmental Science,Science(Biology),Reading/Writing,Low Interest,Science (Mathematics)
+301,A,A,B,A,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Arts/Graphics Designing,Arts,Reading/Writing,Moderate Interest,Science (Mathematics)
+302,B,B,C,D,C,Low Interest,Moderate Interest,Moderate Interest,Low Interest,Low Interest,Psychology,Science(Biology),Auditory,No Interest,Undecided
+303,B,B,C,B,B,Moderate Interest,Moderate Interest,Low Interest,Low Interest,Low Interest,Architecture,Science(Mathematics),Visual,Low Interest,Science (Mathematics)
+304,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+305,B,A,B,A,A,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+306,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Reading/Writing,Moderate Interest,Science (Mathematics)
+307,D,C,B,A,E,Low Interest,Low Interest,Moderate Interest,High Interest,No Interest,Law,Arts,Auditory,No Interest,Arts
+308,A,B,B,A,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,High Interest,Science (Mathematics)
+309,A,A,A,C,A,High Interest,High Interest,High Interest,No Interest,Moderate Interest,Environmental Science,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+310,A,B,A,A,B,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+311,B,B,A,A,B,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Law,Arts,Reading/Writing,Moderate Interest,Science (Mathematics)
+312,A,A,A,A,A,No Interest,Moderate Interest,Moderate Interest,Low Interest,Moderate Interest,Engineering,Science(Mathematics),Auditory,Low Interest,Arts
+313,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+314,A,A,A,B,A,High Interest,High Interest,High Interest,High Interest,High Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+315,B,A,A,A,C,Moderate Interest,High Interest,Moderate Interest,High Interest,Low Interest,Law,Arts,Reading/Writing,High Interest,Science (Mathematics)
+316,A,A,A,A,A,High Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Business,Commerce,Kinesthetic,High Interest,Science (Mathematics)
+317,B,B,A,C,B,Low Interest,Low Interest,Moderate Interest,Moderate Interest,High Interest,Business,Commerce,Auditory,Moderate Interest,Commerce
+318,A,B,A,C,A,High Interest,High Interest,High Interest,Low Interest,High Interest,Computer Science,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+319,B,C,B,C,D,Low Interest,Moderate Interest,Low Interest,Moderate Interest,Moderate Interest,No Specific Preference,Undecided,Kinesthetic,No Interest,Undecided
+320,A,A,B,A,A,High Interest,Moderate Interest,Moderate Interest,High Interest,High Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+321,B,A,A,C,C,Moderate Interest,High Interest,Moderate Interest,Low Interest,Moderate Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+322,A,A,A,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+323,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Visual,High Interest,Science (Mathematics)
+324,B,B,A,A,B,Low Interest,Low Interest,High Interest,High Interest,Low Interest,Law,Arts,Auditory,High Interest,Arts
+325,C,B,A,C,C,No Interest,No Interest,High Interest,Moderate Interest,No Interest,Business,Commerce,Kinesthetic,High Interest,Commerce
+326,B,A,B,A,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Low Interest,Medicine,Science(Biology),Visual,Moderate Interest,Science (Mathematics)
+328,A,A,B,A,B,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Architecture,Science(Mathematics),Visual,High Interest,Science (Mathematics)
+329,A,B,B,B,B,Moderate Interest,High Interest,High Interest,Moderate Interest,Moderate Interest,Engineering,Science(Mathematics),Auditory,High Interest,Science (Mathematics)
+330,B,D,B,B,C,No Interest,Low Interest,Low Interest,Moderate Interest,Moderate Interest,Psychology,Science(Mathematics),Reading/Writing,No Interest,Undecided
+331,A,B,A,B,A,Moderate Interest,Moderate Interest,High Interest,High Interest,Moderate Interest,Medicine,Science(Biology),Auditory,High Interest,Science (Mathematics)
+332,A,B,A,B,A,High Interest,High Interest,High Interest,High Interest,High Interest,Architecture,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+333,A,A,B,A,B,High Interest,High Interest,High Interest,High Interest,High Interest,Business,Commerce,Kinesthetic,Moderate Interest,Science (Mathematics)
+334,B,B,A,A,B,Low Interest,Low Interest,High Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Auditory,High Interest,Arts
+335,A,A,B,A,A,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,Moderate Interest,Science (Mathematics)
+336,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Business,Commerce,Auditory,High Interest,Science (Mathematics)
+337,A,A,A,A,A,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Moderate Interest,Law,Arts,Auditory,Moderate Interest,Science (Mathematics)
+338,B,A,A,A,B,Moderate Interest,High Interest,Moderate Interest,Moderate Interest,Moderate Interest,Medicine,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+339,A,A,B,A,A,High Interest,High Interest,High Interest,High Interest,High Interest,Environmental Science,Science(Biology),Auditory,Moderate Interest,Science (Mathematics)
+340,A,A,A,B,B,High Interest,High Interest,High Interest,High Interest,High Interest,Engineering,Science(Mathematics),Auditory,Moderate Interest,Science (Mathematics)
+341,B,B,B,A,B,Moderate Interest,Moderate Interest,Moderate Interest,High Interest,Moderate Interest,Arts/Graphics Designing,Arts,Kinesthetic,Moderate Interest,Science (Mathematics)
